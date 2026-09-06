@@ -22,3 +22,7 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Generated synthetic datasets
+data_samples/company_a_generated/
+data_samples/company_b_generated/
