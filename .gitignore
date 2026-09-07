@@ -26,3 +26,6 @@ Thumbs.db
 # Generated synthetic datasets
 data_samples/company_a_generated/
 data_samples/company_b_generated/
+
+# Generated source delivery files
+data_samples/source_delivery/
